@@ -62,8 +62,8 @@ _For Microsoft_:
 Script/activate
 ```
 
-<img href ="img/Screenshot_1"/>
-<img href ="img/Screenshot_2"/>
+<img src ="img/Screenshot_1"/>
+<img src ="img/Screenshot_2"/>
 
 _Note: in this case I named my virtual environment **coursera**_
 
