@@ -25,3 +25,6 @@ _For MAC_
 ```command
 python -m venev env
 ```
+
+
+IMPORTANT: **Never forget to git pull**
