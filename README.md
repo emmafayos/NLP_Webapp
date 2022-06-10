@@ -62,8 +62,8 @@ _For Microsoft_:
 Script/activate
 ```
 
-<img src ="img/Screenshot_1"/>
-<img src ="img/Screenshot_2"/>
+<img src ="https://github.com/Hupperich-Manuel/NLP_Webapp/blob/main/img/Screenshot_1.png"/>
+<img src ="ihttps://github.com/Hupperich-Manuel/NLP_Webapp/blob/main/img/Screenshot_2.png"/>
 
 _Note: in this case I named my virtual environment **coursera**_
 
@@ -113,6 +113,9 @@ git push origin main
 ```
 
 Now go into your git repository and create the _pull request_.
+
+<img src ="ihttps://github.com/Hupperich-Manuel/NLP_Webapp/blob/main/img/Screenshot_3.png"/>
+
 
 This section of your forked repository will keep you updated on the changes that have been made in the original repo.
 
