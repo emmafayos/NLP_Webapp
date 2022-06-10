@@ -17,3 +17,11 @@ If there appears an error, run:
 ```command
 pip install venv
 ```
+
+To start the virtual environment
+
+_For MAC_
+
+```command
+python -m venev env
+```
