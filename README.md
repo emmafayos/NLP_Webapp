@@ -140,7 +140,7 @@ cd NLP_Webapp
 and run
 
 ```command
-pip install django
+pip install django==3.2.5
 ```
 Then do 
 
