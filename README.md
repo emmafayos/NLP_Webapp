@@ -29,6 +29,7 @@ pip install virtualenv
 _For Microsoft_:
 ```command
 pip install venv
+pip install virtualenv
 ```
 
 To start the virtual environment:
@@ -142,6 +143,12 @@ and run
 ```command
 pip install django==3.2.5
 ```
+
+To install the requirements _mac_
+```command
+pip install -r requirements.txt
+```
+
 Then do 
 
 ```command
