@@ -14,4 +14,8 @@ from django.shortcuts import render, redirect
 def IndexView(request):
     """Return the last five published questions."""
     name = ["Harry Potter and the Philosopher Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban"]
-    return render(request, 'nlp_app/home.html', {"name":name}) 
+    return render(request, 'nlp_app/home.html', {"name":name})
+
+def NLPView(request):
+    test = 'test'
+    return render(request, 'nlp_app/home.html', {'test':test})
