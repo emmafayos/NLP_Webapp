@@ -4,5 +4,5 @@ from . import views
 app_name = 'nlp_app'
 urlpatterns = [
     path('', views.IndexView, name='home'),
-    path('^mock/$', views.NLPView, name='nlp'),
+    path('nlp/', views.NLPView, name='nlp'),
 ]
