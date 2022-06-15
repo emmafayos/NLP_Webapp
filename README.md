@@ -55,7 +55,7 @@ So being **in** the folder _env_ you can now **activate** the environment:
 
 _For MAC_:
 ```command
-source bin/activate
+source env/bin/activate
 ```
 
 _For Microsoft_:
