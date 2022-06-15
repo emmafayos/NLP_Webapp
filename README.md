@@ -80,15 +80,10 @@ Install [_Visual Studio Code_](https://code.visualstudio.com/download)
 
 ##### Git
 
-The **Number 1 rule is to always git pull**
-
-But, since you havent your repo in your local machine you first need to do some steps.
-
-1. Go to the [NLP_Webapp](https://github.com/Hupperich-Manuel/NLP_Webapp) and **fork** it.
-2. Clone the forked inside of **your repositories** on your local machine. This is done on a terminal of your desired folder.
+Firstly, you need to clone the repository on your local machine. This is done on a terminal of your desired folder using the following command line:
 
 ```command
-git clone <link to your forked repository>
+git clone <link to the repository>
 ````
 
 Now you are ready to move on.
