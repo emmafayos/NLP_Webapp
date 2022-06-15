@@ -1,6 +1,13 @@
 # NLP_Webapp
 Book recommendation engine application
 
+# INSTALLATION AND EXECUTION MANUAL
+
+To be able to run the Book Recommendation System, it is required to: 
+
+- Create a GitHub account. 
+- Download and install Git (already installed on Mac). 
+- Download and install Django. 
 
 ## Start Django Webb App for NLP
 
@@ -158,8 +165,4 @@ If all the code is checked and there are no errors, you will be able to run
 ```command
 python manage.py runserver
 ```
-
-You are running the webapp on your computer. Feel free to visit the host http://127.0.0.1:8000/nlp_app/ that django uses on your machine to see how the changes you did or the ones from your colleages are reflected on the UI.
-
-
-In case you have further questions, reach me out.
+You are running the webapp on your computer. Feel free to visit the host http://127.0.0.1:8000/nlp_app/ to use the Book Recommendation System. 
