@@ -75,63 +75,17 @@ Script/activate
 
 _Note: in this case I named my virtual environment **coursera**_
 
-#### Git and Visual Studio Code
+#### Git
 
 ```command
 git --version
 ```
-
-If you havent installed it, download git on your machine.
-
-Install [_Visual Studio Code_](https://code.visualstudio.com/download)
-
-##### Git
-
-Firstly, you need to clone the repository on your local machine. This is done on a terminal of your desired folder using the following command line:
+Now, you need to clone the repository on your local machine. This is done on a terminal of your desired folder using the following command line:
 
 ```command
 git clone <link to the repository>
 ````
-
-Now you are ready to move on.
-
-In case you are making any change in the files through Visual Studio Code, in order to push the changes you will have to do the following.
-
-```command
-git status
-````
-Notice that the changes you made are marked in red
-
-```command
-git add .
-```
-If you run again the status you will see how the red files turned into green.
-
-```command
-git commit -m "<Comment briefly the changes you made>"
-```
-
-```command
-git push origin main
-```
-
-Now go into your git repository and create the _pull request_.
-
-<img src ="https://github.com/Hupperich-Manuel/NLP_Webapp/blob/main/img/Screenshot_3.png"/>
-
-
-This section of your forked repository will keep you updated on the changes that have been made in the original repo.
-
-IMPORTANT: **Never forget to git pull**
-
-Once done this, every time you want to work on the project make sure to open the terminal on your cloned folder and run a:
-```command
-git pull
-```
-To update your folder before any change (not doing this might lead to future errors).
-
 **Now you are ready to start working on the django NLP repository**
-
 
 #### Django
 
